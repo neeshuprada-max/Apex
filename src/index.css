@@ -27,7 +27,7 @@
 }
 
 body {
-  @apply bg-[#070b19] text-slate-100;
+  @apply bg-gradient-to-br from-blue-900 via-blue-800 to-blue-950 text-white;
 }
 
 /* Button hover effects */
